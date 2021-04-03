@@ -1,0 +1,7 @@
+{
+  "name": "cluelez",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

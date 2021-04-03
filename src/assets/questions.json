@@ -1,0 +1,94 @@
+{
+    "questions":[
+{
+    "question": "Only online chat with people you know and trust in real life. True or False?",
+    "background": "#1abc9c",
+    "o1": "True",
+    "o2": "False",
+    "o3": "Not sure",
+    "o4": "What is chat?",
+    "co": "option"
+  },
+  {
+    "question": "If you get a message from someone you do not know, what should you do?",
+    "background": "#3498db",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 3",
+    "background": "#8e44ad",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 4",
+    "background": "#f1c40f",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 5",
+    "background": "#97CE68",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 6",
+    "background": "#E01931",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 7",
+    "background": "#97CE68",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 8",
+    "background": "#E01931",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 9",
+    "background": "#97CE68",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  },
+  {
+    "question": "question 10",
+    "background": "#E01931",
+    "o1": "option",
+    "o2": "option",
+    "o3": "option",
+    "o4": "option",
+    "co": "option"
+  }
+    ]
+}
